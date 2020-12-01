@@ -1,5 +1,5 @@
 ### What's Up?
-<img align="center" src="IMG_1553.jpg" width="400" />
+<img align="center" src="IMG_1553.jpg" width="300" />
 
 **I'm Sergii, and i'm Full-Stack Web Dev, you can contact me:**
 
