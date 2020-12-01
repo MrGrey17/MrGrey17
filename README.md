@@ -16,7 +16,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrKrist16&show_icons=true&theme=tokyonight" alt="MrKrist's github stats" />
 </a>
 
-### I learning and use these languages:
+### I'm learning and use these languages:
 <img align="left" alt="PHP" src="https://www.php.net/images/logos/new-php-logo.png" width="23px"/>
 <img align="left" alt="JS" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="23px"/>
 <img align="left" alt="Laravel" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/laravel_icon_130892.png" width="23px"/>
