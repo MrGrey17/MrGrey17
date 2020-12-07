@@ -26,7 +26,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrist16&layout=compact&theme=tokyonight" />
 </a>
-
-### How much do I work?
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sergii_kirnosov&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
