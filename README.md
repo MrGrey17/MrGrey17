@@ -16,13 +16,20 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrKrist17&show_icons=true&theme=tokyonight" alt="MrKrist's github stats" />
 </a>
 
-### I'm learning and use these languages:
-<img align="left" alt="PHP" src="https://www.php.net/images/logos/new-php-logo.png" width="23px"/>
-<img align="left" alt="JS" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="23px"/>
-<img align="left" alt="Laravel" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/laravel_icon_130892.png" width="23px"/>
-<img align="left" alt="JQuery" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" width="23px"/>
-<img align="left" alt="React" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" width="23px"/><br /><br /> 
+### I'm learning and use these languages and frameworks:
 
+<a href="https://https://www.php.net/">
+  <img align="left" alt="PHP" src="https://www.php.net/images/logos/new-php-logo.png" width="23px"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/JavaScript">
+  <img align="left" alt="JS" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="23px"/>
+</a>
+<a href="https://laravel.com/">
+  <img align="left" alt="Laravel" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/laravel_icon_130892.png" width="23px"/>
+</a>
+<a href="https://jquery.com/">
+  <img align="left" alt="JQuery" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" width="23px"/> 
+</a><br /><br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrist17&layout=compact&theme=tokyonight" />
 </a>
