@@ -18,7 +18,7 @@
 
 ### I'm learning and use these languages and frameworks:
 
-<a href="https://https://www.php.net/">
+<a href="https://www.php.net/">
   <img align="left" alt="PHP" src="https://www.php.net/images/logos/new-php-logo.png" width="23px"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/JavaScript">
