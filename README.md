@@ -6,14 +6,14 @@
 <a href="https://instagram.com/sergii_kirnosov/">
   <img align="left" alt="My Instagram" src="https://www.instagram.com/favicon.ico" width="23px"/>
 </a>
-<a href="https://t.me/MrKrist17">
+<a href="https://t.me/MrGrey17">
   <img align="left" alt="My Telegram" src="https://t.me/favicon.ico" width="23px"/>
 </a><br /> 
 
 ### My stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrKrist17&show_icons=true&theme=tokyonight" alt="MrKrist's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrGrey17&show_icons=true&theme=tokyonight" alt="MrKrist's github stats" />
 </a>
 
 ### I'm learning and use these languages and frameworks:
@@ -31,5 +31,5 @@
   <img align="left" alt="JQuery" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" width="23px"/> 
 </a><br /><br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrist17&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGrey17&layout=compact&theme=tokyonight" />
 </a>
