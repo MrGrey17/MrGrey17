@@ -13,7 +13,7 @@
 ### My stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrGrey17&show_icons=true&theme=tokyonight" alt="MrKrist's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrGrey17&show_icons=true&theme=tokyonight" alt="MrGray's github stats" />
 </a>
 
 ### I'm learning and use these languages and frameworks:
